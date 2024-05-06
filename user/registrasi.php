@@ -2,7 +2,7 @@
 $db_host = "localhost";
 $db_user = "root";
 $db_pass = "";
-$db_name = "u_wages";
+$db_name = "zenithsalary";
 
 $koneksi = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
 session_start();
